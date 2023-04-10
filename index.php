@@ -157,17 +157,7 @@ packed with flavour and nutrition.
         <!-- About End -->
 
 
-        <!-- Menu Start -->
-       <!-- Menu End -->
-
-
-        <!-- Reservation Start -->
-
-        <!-- Reservation Start -->
-
-
-        <!-- Team Start -->
-<!-- Team End -->
+        
 
 
         <!-- Testimonial Start -->
